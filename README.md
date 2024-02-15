@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Pandas, ML
 - 💞️ I’m looking to collaborate on Gradient boosting  
-- 📫 How to reach me: emacow@hotmail.com
+- 📫 How to reach me: by PM or email, see profile
 - 😄 Pronouns: e-ma-cow :)
 - ⚡ Fun fact: moo
 
